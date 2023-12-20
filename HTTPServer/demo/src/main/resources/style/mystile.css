@@ -1,0 +1,18 @@
+.p {
+    font-size: 60;
+    color: red;
+}
+
+.error {
+    color: red;
+}
+
+.goBack {
+    border: 2px solid darkred;
+    background-color: orangered;
+}
+
+.image {
+    width: 300px;
+    height: 400px;
+}
